@@ -52,5 +52,5 @@ October 8th 2026 - Removal of financial corporate announcements (sneak fin res)
 October 13th 2026 - Dual TVSMOTOR entry
 October 14th 2026 - Bavaguthu Raghuram Shetty sues bank of baroda (Former billionaire)
 October 15th 2026 - Removal of corporate actions (dividend, merger, splits)
-October 15th 2026 - Milestonks Website Deployed
+October 15th 2026 - Milestonks Website Deployed on stonkswirk.com
 `;
