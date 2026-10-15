@@ -1,7 +1,7 @@
 :root {
-  --paper: #eef1f5; --ink: #14213d; --muted: #5b6678; --line: #c3cbd8;
-  --gain: #0e9f6e; --card: #ffffff;
-  color-scheme: light;
+  --paper: #11161f; --ink: #e8edf5; --muted: #98a3b6; --line: #2e384a;
+  --gain: #34d399; --card: #1a212d;
+  color-scheme: dark;
 }
 @media (prefers-color-scheme: dark) {
   :root { --paper: #11161f; --ink: #e8edf5; --muted: #98a3b6; --line: #2e384a; --gain: #34d399; --card: #1a212d; color-scheme: dark; }
