@@ -1,0 +1,6 @@
+{
+  "name": "milestonks",
+  "version": "1.0.0",
+  "description": "StonksWirk milestone timeline",
+  "scripts": { "start": "node server.js" }
+}
