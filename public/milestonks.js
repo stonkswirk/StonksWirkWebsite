@@ -55,4 +55,5 @@ October 15th 2026 - Removal of corporate actions (dividend, merger, splits)
 October 15th 2026 - Milestonks Website Deployed on stonkswirk.com (RIP Return of the king)
 October 18th 2026 - VWAP Entry (Fyers), 3L
 October 19th 2026 - Upstox Betrayed, Manupati the GOAT, edged till Oct 21st
+October 23rd 2026 - UNITDSPR Liquidity Issue, Update constituents March and Sept
 `;
